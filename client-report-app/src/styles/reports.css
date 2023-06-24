@@ -1,0 +1,25 @@
+.reportsRow {
+  display: none;
+}
+
+.reportsHeader {
+  display: block;
+}
+.reportsRow.open{
+  color: #fff;
+  display: block;
+  /* grid-template-columns: auto auto auto; */
+  padding: 10px;
+  background-color:#22262b;
+}
+
+.reportWidgets {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-items: center;
+}
+
+.progressCircle {
+  width: 80px;
+  height: 80px;
+}

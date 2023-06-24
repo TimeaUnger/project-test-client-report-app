@@ -1,0 +1,31 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Pistike",
+      "reports": {
+        "report1": "10",
+        "report2": "15",
+        "report3": "35"
+      }
+    },
+    {
+      "id": "604",
+      "name": "Bendeguz",
+      "reports": {
+        "report1": "32",
+        "report2": "44",
+        "report3": "90"
+      }
+    },
+    {
+      "id": "988",
+      "name": "Jozsika",
+      "reports": {
+        "report1": "78",
+        "report2": "57",
+        "report3": "11"
+      }
+    }
+  ]
+}
